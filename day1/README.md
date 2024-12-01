@@ -2,5 +2,7 @@
 ## With some linux tools
 
 real	0m1.824s
-user	0m0.680s
+
+user    0m0.680s
+
 sys	0m1.154s
