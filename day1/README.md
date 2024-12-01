@@ -1,7 +1,6 @@
-# Question 1
+# Language: bash
+## With some linux tools
 
-real	0m0.019s
-user	0m0.013s
-sys	0m0.011s
-
-# Question 2
+real	0m1.824s
+user	0m0.680s
+sys	0m1.154s
