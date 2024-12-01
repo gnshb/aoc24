@@ -1,5 +1,5 @@
 # Language: bash
-## With some linux tools
+## with gnucoreutils
 
 ```bash
 real	0m1.824s
